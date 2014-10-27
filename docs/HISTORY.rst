@@ -1,7 +1,8 @@
 Changelog
 =========
 
-3.2.0dev (unreleased)
----------------------
+3.2.0 (unreleased)
+------------------
 
-- Initial release
+- Initial release (knockout.js 3.2.0)
+
