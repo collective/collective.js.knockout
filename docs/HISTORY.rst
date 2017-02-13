@@ -1,10 +1,10 @@
 Changelog
 =========
 
-3.2.1 (unreleased)
+3.4.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Update to knockout v3.4.1
 
 
 3.2.0 (2014-10-27)
